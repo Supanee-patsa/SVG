@@ -4,6 +4,7 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="1710.000000pt" height="1710.000000pt" viewBox="0 0 1710.000000 1710.000000"
  preserveAspectRatio="xMidYMid meet">
+ <symbol id="cafelogoicon">
 
 <g transform="translate(0.000000,1710.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
@@ -118,4 +119,5 @@ c-14 22 -14 24 25 51 22 15 44 35 50 45 30 57 -17 174 -85 214 -75 44 -155 30
 -2 153 -90 337 -196 258 -148 338 -190 350 -182 9 5 36 49 61 97 40 78 45 96
 45 155 0 81 -24 133 -98 210 -127 132 -352 227 -457 192z"/>
 </g>
+</symbol>
 </svg>
