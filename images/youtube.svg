@@ -4,6 +4,7 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
  preserveAspectRatio="xMidYMid meet">
+ <symbol id="youtubeicon">
 
 <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
@@ -15,4 +16,5 @@ fill="#000000" stroke="none">
 11 -1077 -1z m796 -1529 c456 -267 827 -488 823 -492 -9 -9 -1634 -915 -1656
 -924 -15 -6 -16 73 -16 951 0 580 4 955 9 953 5 -1 383 -221 840 -488z"/>
 </g>
+</symbol>
 </svg>
